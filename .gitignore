@@ -31,3 +31,29 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Maven build output
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE-specific files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+
+# Environment and secret files
+.env
+
+# H2 database files (if generated)
+*.mv.db
+*.trace.db
+
+# Maven Wrapper binaries (optional)
+.mvn/wrapper/
+
+
