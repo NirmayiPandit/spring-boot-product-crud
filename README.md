@@ -12,16 +12,12 @@ This is a simple Spring Boot application that allows users to perform CRUD opera
 - RESTful API endpoints.
 
 ## Technologies Used
-- Java 22
+- Java 21
 - Spring Boot 3.x.x
 - Spring Data JPA
 - H2 Database
 
 ## Setup Instructions
-
-### Prerequisites
-- Java 22 or higher installed.
-- Maven installed.
 
 ### Steps to Run Locally
 1. Clone the repository:git clone https://github.com/<YOUR_USERNAME>/<REPOSITORY_NAME>.git
