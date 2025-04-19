@@ -20,10 +20,12 @@ This is a simple Spring Boot application that allows users to perform CRUD opera
 ## Setup Instructions
 
 ### Steps to Run Locally
-1. Clone the repository:git clone https://github.com/<YOUR_USERNAME>/<REPOSITORY_NAME>.git
+1. Clone the repository: https://github.com/NirmayiPandit/spring-boot-product-crud.git
 2. Navigate to the project directory:cd spring-boot-product-crud
 3. Build the project using Maven:mvn clean install
 
+OR
+Just open it in IntelliJ and Click on Run.
 
 ### Accessing the Application:
 - The application runs on `http://localhost:8080`.
